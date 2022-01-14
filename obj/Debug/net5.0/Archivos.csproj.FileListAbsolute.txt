@@ -1,0 +1,16 @@
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\bin\Debug\net5.0\Archivos.exe
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\bin\Debug\net5.0\Archivos.deps.json
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\bin\Debug\net5.0\Archivos.runtimeconfig.json
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\bin\Debug\net5.0\Archivos.runtimeconfig.dev.json
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\bin\Debug\net5.0\Archivos.dll
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\bin\Debug\net5.0\ref\Archivos.dll
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\bin\Debug\net5.0\Archivos.pdb
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\obj\Debug\net5.0\Archivos.csprojAssemblyReference.cache
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\obj\Debug\net5.0\Archivos.GeneratedMSBuildEditorConfig.editorconfig
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfoInputs.cache
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\obj\Debug\net5.0\Archivos.AssemblyInfo.cs
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\obj\Debug\net5.0\Archivos.csproj.CoreCompileInputs.cache
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\obj\Debug\net5.0\Archivos.dll
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\obj\Debug\net5.0\ref\Archivos.dll
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\obj\Debug\net5.0\Archivos.pdb
+D:\Octavo\ProgramacionAvanzadaI\II\Archivos\obj\Debug\net5.0\Archivos.genruntimeconfig.cache
